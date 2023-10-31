@@ -1,0 +1,5 @@
+POST http://127.0.0.1:4567/plan HTTP/1.1
+  ?start_date=01/11/2023
+  &end_date=06/11/2023
+  &city_origin=Goiânia-GO
+  &city_destination=Rio de Janeiro-RJ
