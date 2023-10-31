@@ -1,6 +1,7 @@
 # TRAVEL AI - API for travel itinerary
----
+
 ### Backend project using RUBY + SINATRA + OPEN AI
+---
 
 Ruby version:
 - 3.1.2
